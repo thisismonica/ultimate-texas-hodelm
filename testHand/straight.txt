@@ -1,0 +1,7 @@
+8 Spade
+9 Hearts
+10 Diamond
+J Diamond
+Q Diamond
+K Hearts
+A Hearts

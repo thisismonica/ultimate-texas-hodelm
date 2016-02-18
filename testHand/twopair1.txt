@@ -1,0 +1,7 @@
+8 Diamond
+10 Clubs
+9 Hearts
+9 Diamond
+10 Spade
+5 Spade
+8 Clubs
